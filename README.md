@@ -1,1 +1,1 @@
-# Stop-Moodle-Download
+# Stop-Moodle-PDF-Download
